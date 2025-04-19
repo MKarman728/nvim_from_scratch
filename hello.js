@@ -3,3 +3,5 @@ function hello(parameter) {
 }
 
 hello("Mark");
+
+console.log("Hello World!");
